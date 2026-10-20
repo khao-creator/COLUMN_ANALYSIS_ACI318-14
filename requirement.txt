@@ -1,0 +1,20 @@
+# ==============================================================================
+# Dependency Requirements for RC Beam & Column Analysis Suite (ACI 318-14)
+# ==============================================================================
+
+# Core Computational & Data Validation Frameworks
+pydantic>=2.0.0
+numpy>=1.21.0
+
+# Graphical User Interface (PySide6 / PyQt Framework)
+PySide6>=6.4.0
+
+# 2D & 3D Visualizations / Viewports
+matplotlib>=3.5.0
+pyvista>=0.38.0
+pyvistaqt>=0.9.0
+
+# Document & Mathematical Proof Sheet Generation
+python-docx>=0.8.11
+lxml>=4.9.0
+latex2mathml>=3.7.0

@@ -1,0 +1,38 @@
+{
+  "fc_prime": 280.0,
+  "fy": 4000.0,
+  "fyt": 2400.0,
+  "b": 30.0,
+  "h": 50.0,
+  "covering": 4.0,
+  "Lu": 3.5,
+  "K_x": 1.0,
+  "K_y": 1.0,
+  "is_sway": false,
+  "top_rebars": [
+    {
+      "dia": 28.0,
+      "qty": 2,
+      "clear_dist": 0.0
+    }
+  ],
+  "bot_rebars": [
+    {
+      "dia": 28.0,
+      "qty": 2,
+      "clear_dist": 0.0
+    }
+  ],
+  "side_rebars": [],
+  "tie_data": {
+    "tie_dia": 9.0,
+    "spacing": 20.0,
+    "legs": 2
+  },
+  "forces": {
+    "Pu": 150000.0,
+    "Mu_top": 12000.0,
+    "Mu_bot": 8000.0,
+    "Vu": 15000.0
+  }
+}
